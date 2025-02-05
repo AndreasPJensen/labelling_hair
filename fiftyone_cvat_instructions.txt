@@ -30,6 +30,8 @@ Steps for using FiftyOne's integration with CVAT (Computer Vision Annotation Too
 
 8. Click "ok", then navigate to "requests" at the top of the screen or "here" in the briefly shown pop up
 
+8.5 (Optional) Back in the terminal, you can click enter to open the fiftyone dataset for your images, where you can see your labels corresponding (hopefully) to the images you assigned them to, you can then filter them by 1/2/3 to view what the different labelled images look like 
+
 9. Download using the dots on the side to somewhere simple or memorable
 
 10. Now run the second python script (xml_to_csv), the same way as the first one was ran, and enter your annotator number (can be any of the three, just make sure you don't have the same number as your group members)
